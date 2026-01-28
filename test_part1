@@ -4974,7 +4974,6 @@ vless://bad0ff11-40eb-4c04-8137-e1eac9cbd31e@51.250.89.217:5443?type=tcp&securit
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlbe.g2ray.com:443?type=tcp&security=xtls&encryption=none&flow=xtls-rprx-direct#https://t.me/YoutubeUnBlockRu
 vless://8bc541f3-6679-41e2-a66a-eb380e80566a@fn.takovpn.ru:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=3cj5R-TwL-wjkLvwMcVW-DJXbm6xOyIIJEP1cC8AhgI&sid=286e2d&sni=www.vk.com#https://t.me/YoutubeUnBlockRu
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@80.211.194.250:80?type=ws&encryption=none&path=Telegram%F0%9F%87%AE%F0%9F%87%B7%20%40ShadowProxy66%20/%3Fed%3D2560&host=reedfree8mahsang2.redorg.ir#https://t.me/YoutubeUnBlockRu
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@192.0.54.158:2096?type=ws&security=tls&encryption=none&sni=sni.111000.de5.net&host=sni.111000.de5.net#https://t.me/YoutubeUnBlockRu
 vless://ed5f4561-accc-4d05-ac1d-de5c7bf128bb@ynd2.cloud134.ru:5443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=LYcCwo0njLgniLzvwFyn6xcwwQ45CQhUFI-05xEU_Bg&sid=e0e9fa537618f9a5&sni=api-maps.yandex.ru#https://t.me/YoutubeUnBlockRu
 vless://30c5bb92-6dbb-4e06-86e5-e0ace872d475@185.112.59.154:5443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=5478es9JRo9-5W-8RkpCmTWogD1svkLiPLUzGJGuThM&sid=26340df8bc7de60d&sni=max.ru#https://t.me/YoutubeUnBlockRu
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@nlcdn5.suio.me:443?type=tcp&security=tls&encryption=none&sni=nlcdn5.suio.me#https://t.me/YoutubeUnBlockRu
@@ -4998,3 +4997,4 @@ vless://90369d31-5d1b-47a5-88c9-84cc77d47295@89.208.229.39:3443?type=tcp&securit
 vless://17a51db4-8fa4-463f-a122-e4283589c462@osn.takovpn.ru:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=768c60&sni=www.google.com#https://t.me/YoutubeUnBlockRu
 vless://c2d3eb92-c901-4181-a55a-59f8cc60e30d@fn.takovpn.ru:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=3cj5R-TwL-wjkLvwMcVW-DJXbm6xOyIIJEP1cC8AhgI&sid=286e2d&sni=www.vk.com#https://t.me/YoutubeUnBlockRu
 vless://2f7d7016-74e0-42d4-a0ac-6470322a4d33@95-wl.connect-opengate.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CM_8BBs3aFSoioBTi0ciNTD5h4j-4vPcxfqUmwyYXVk&sid=348dc0b768acd16f&sni=sun6-22.userapi.com#https://t.me/YoutubeUnBlockRu
+vless://54c6740f-76f0-4152-a06c-71fb77a7ae2c@45.56.126.94:443?type=tcp&encryption=none&host=zula.ir&headerType=http#https://t.me/YoutubeUnBlockRu
