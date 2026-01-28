@@ -1,5 +1,3 @@
-vless://c2d3eb92-c901-4181-a55a-59f8cc60e30d@fn.takovpn.ru:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=3cj5R-TwL-wjkLvwMcVW-DJXbm6xOyIIJEP1cC8AhgI&sid=286e2d&sni=www.vk.com#https://t.me/YoutubeUnBlockRu
-vless://2f7d7016-74e0-42d4-a0ac-6470322a4d33@95-wl.connect-opengate.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CM_8BBs3aFSoioBTi0ciNTD5h4j-4vPcxfqUmwyYXVk&sid=348dc0b768acd16f&sni=sun6-22.userapi.com#https://t.me/YoutubeUnBlockRu
 vless://54c6740f-76f0-4152-a06c-71fb77a7ae2c@45.56.126.94:443?type=tcp&encryption=none&host=zula.ir&headerType=http#https://t.me/YoutubeUnBlockRu
 vless://1aae9657-c653-495d-e8ad-8ca52916cea8@de.bolagskontaktstockholm.se:443?type=tcp&encryption=none#https://t.me/YoutubeUnBlockRu
 vless://85534802-e9e3-4887-896a-3860dfaeb4bf@de1.sipi.pro:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=B2ED6LqZqQVNsVcFC9GWZZ5mdmEH4nKNdQj23FQZCHU&sid=a48081096ffcc2ca&sni=de1.sipi.pro#https://t.me/YoutubeUnBlockRu
@@ -4998,3 +4996,5 @@ vless://e4053de5-837b-4ea1-a8c7-50d9ed3cae9b@217.13.104.120:443?type=tcp&securit
 vless://fd6f5762-3ce8-4799-8e59-87f703221558@217.13.104.120:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=qjcsdhbF7IhIc-pHA43WlTvh8Qr-ePvypTTjI1XyyGo&sid=7712e76c17de5601&sni=yandex.ru&path=&host=#https://t.me/YoutubeUnBlockRu
 vless://82ba8117-3a59-400a-a7a5-3f610a1cb273@144.31.2.86:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=PuHKrJNt4shNVTNZ_leD7SmOI0QhxJ9SVnkV70i1xho&sid=cbdfef7f3ede2072&sni=google.com&path=&host=#https://t.me/YoutubeUnBlockRu
 vless://b1fe9e6b-5e8b-4f4c-885e-308f45ba292f@ll2.takovpn.ru:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=GacPaW0DxNTA8vpoEv7CpGBAu_atzYMBaryAuwcw70M&sid=0f&sni=sun6-20.userapi.com&spx=/VzIS36zzLOae3p0#https://t.me/YoutubeUnBlockRu
+vless://40365da0-ba90-49e2-9cc5-4d25fdabac97@217.13.104.120:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=qjcsdhbF7IhIc-pHA43WlTvh8Qr-ePvypTTjI1XyyGo&sid=7712e76c17de5601&sni=yandex.ru&path=&host=#https://t.me/YoutubeUnBlockRu
+vless://8a4b3f21-4160-4670-a0a1-88feb72324d8@217.13.104.120:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=qjcsdhbF7IhIc-pHA43WlTvh8Qr-ePvypTTjI1XyyGo&sid=7712e76c17de5601&sni=yandex.ru&path=&host=#https://t.me/YoutubeUnBlockRu
